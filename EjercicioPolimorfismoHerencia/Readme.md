@@ -1,4 +1,4 @@
-# Ejercicio Polimorfismo Herencia
+# Ejercicio Polimorfismo y Herencia
 
 ## Integrantes
 
